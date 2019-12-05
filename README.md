@@ -27,6 +27,10 @@ function fooAccount(options, callback) {
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to submit changes.
 
+## Installation
+
+    npm install assert-plus
+
 ## API
 
 All methods that *aren't* part of node's core assert API are simply assumed to
@@ -134,10 +138,6 @@ The complete list of APIs is:
 * `assert.throws`
 * `assert.doesNotThrow`
 * `assert.ifError`
-
-## Installation
-
-    npm install assert-plus
 
 ## License
 
